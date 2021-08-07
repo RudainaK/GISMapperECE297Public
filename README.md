@@ -15,7 +15,7 @@ Our final milestone was the travelling courier problem. Using a combination of a
 
 While I can't show the code, I can show the final result of project. 
 
-![](media/FullDisplay.png)
+![](media/FinalDisplay.png)
 
 The user could select different maps using the drop down menu. Buttons for zooming in and out, moving around the map, and other display toggles were on the right. In the top left corner there is a help button that generates pop ups to give users information on how to use the interface. 
 
